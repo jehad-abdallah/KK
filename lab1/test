@@ -1,0 +1,67 @@
+@echo off
+echo triangle1.exe 3 4 a
+triangle1.exe 3 4 a
+echo.
+
+echo triangle1.exe 3 4 5
+triangle1.exe 3 4 5
+echo.
+
+echo triangle1.exe 3 3 3
+triangle1.exe 3 3 3
+echo.
+
+echo triangle1.exe 3 4 4
+triangle1.exe 3 4 4
+echo.
+
+echo triangle1.exe 4 4 3
+triangle1.exe 4 4 3
+echo.
+
+echo triangle1.exe 4 2 4
+triangle1.exe 4 2 4
+echo.
+
+echo triangle1.exe 1 1 1
+triangle1.exe 1 1 1
+echo.
+
+echo triangle1.exe 2 2
+triangle1.exe 2 2
+echo.
+
+echo triangle1.exe 2 2 2 2
+triangle1.exe 2 2 2 2
+echo.
+
+echo triangle1.exe 0 0 0
+triangle1.exe 0 0 0
+echo.
+echo.
+
+echo triangle1.exe 2 4 -5
+triangle1.exe 2 4 -5
+echo.
+echo.
+
+echo triangle1.exe 3.00 3.00 4.00
+triangle1.exe 3.00 3.00 4.00
+echo.
+
+echo triangle1.exe 2.00 3.00 4.00
+triangle1.exe 2.00 3.00 4.00
+echo.
+
+echo triangle1.exe 2.00 2.00 2.00
+triangle1.exe 2.00 2.00 2.00
+echo.
+
+echo triangle1.exe 2.1 2.1 2.1
+triangle1.exe 2.1 2.1 2.1
+echo.               
+
+echo triangle1.exe 2.1 2.1 3,1
+triangle1.exe 2.1 2.1 3,1
+echo.
+@pause
